@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mahendiran 👋
 
-<!--
-**mahendiran-g/mahendiran-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer with **3+ years at a product-based SaaS company**, now moving into **AI Engineering**.
 
-Here are some ideas to get you started:
+## 🔨 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI Commerce OS**: an AI-first social commerce platform for Indian social sellers (Instagram, WhatsApp, Facebook)
+
+**TechCaliper**: AI-powered product research and comparison for electronics
+
+## 💼 At work
+
+Software Engineer at **LateShipment.com**, a delivery experience SaaS platform handling 40M+ shipments a year. I build REST APIs, webhooks, and OAuth 2.0 integrations with Shopify, Zendesk, Klaviyo, SendGrid, and more.
+
+## 🧰 Tech stack
+
+**Languages:** PHP · Python · TypeScript · JavaScript
+
+**Backend:** REST APIs · Webhooks · OAuth 2.0 · Cron jobs
+
+**Databases:** MySQL · MongoDB
+
+**Tools:** Git · Postman · Selenium
+
+## 📚 Currently learning
+
+LLM APIs · Prompt Engineering · AWS
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/mahendiran-g-5194b0157) · mahendirantamiz@gmail.com
+
+🟢 Open to AI Engineer, Python Developer, and Backend Engineer roles
